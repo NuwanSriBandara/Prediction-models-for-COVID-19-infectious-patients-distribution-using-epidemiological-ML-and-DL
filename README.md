@@ -6,7 +6,7 @@ In this project, an anlysis was attempted in order to predict the number of infe
 ![](Images/Github1.PNG)
 Figure 1: The prediction result of the epidemiological curve for India using enahnced SER model with machine learning
 
-![](Images/Prophet1.PNG) <br/ >
+![](Images/Prophet1.PNG) 
 Figure 2: The prediction curve using Prophet model
 
 Please cite this repository if you have anyhow used its content. 
